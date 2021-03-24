@@ -1,6 +1,5 @@
 let age = 0 
-
-
+let weekend = 0
 document.getElementById('button').addEventListener('click', button)
 
 function button () {
